@@ -1,3 +1,5 @@
+ApplicationCamera.zip是最终完整版代码，其他的是阶段性代码。
+
 # 图片编辑应用 (TT-IC-Camera)
 
 ## 一、项目背景与目标
